@@ -19,6 +19,7 @@ public class FoLoopDemo9 {
 			 
 			System.out.println("days="+ j);
 			System.out.println("");
+			System.out.println("");
 		 }
 		 
 	}
