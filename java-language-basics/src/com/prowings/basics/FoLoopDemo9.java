@@ -16,10 +16,10 @@ public class FoLoopDemo9 {
 			 {
 				 break;
 			 }
-			 
+			System.out.println(""); 
 			System.out.println("days="+ j);
 			System.out.println("");
-			System.out.println("");
+			
 		 }
 		 
 	}
